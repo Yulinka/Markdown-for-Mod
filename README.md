@@ -18,7 +18,7 @@ _"Of course I’m great with plants it’s in my nature!"_
 * Reserved mechanic
 * Reserved mechanic
 * Reserved info
-* Her partner, Wendolyn (she’s downloadable [url=]here![/url])
+* Her partner, Wendolyn (she’s downloadable [here][])
 
 ## Light Staff:
 
@@ -33,12 +33,9 @@ All assets, artwork, sound files were made by me.
 
 All programming and mechanics were made by [Keidence][].
 
-Comments, feedback, bug reports, and suggestions can all be posted in the discussions. Let us know what we can do better or fix! :star:
+**Comments, feedback, bug reports, and suggestions can all be posted in the discussions. Let us know what we can do better or fix!** :star:
 
 ![poster icon](https://i.imgur.com/UerQO5X.png "Character poster revealed!")
 
 [Keidence]: http://steamcommunity.com/profiles/76561198010524937
-
-
-
-
+[here]: http://steamcommunity.com/profiles/76561198010524937
