@@ -5,7 +5,7 @@ A Don’t Starve character mod to add **Whitney the Nature Witch**.
 _"Of course I’m great with plants it’s in my nature!"_
 
 ## Stats:
-| A.     | B.  |
+|  Stat  |  #  |
 |--------|-----|
 | Health | 150 |
 | Sanity | 200 |
@@ -39,3 +39,7 @@ All programming and mechanics were made by [Keidence][].
 
 [Keidence]: http://steamcommunity.com/profiles/76561198010524937
 [here]: http://steamcommunity.com/profiles/76561198010524937
+
+
+
+
