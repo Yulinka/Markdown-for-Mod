@@ -38,8 +38,15 @@ All programming and mechanics were made by [Keidence][].
 
 :star: **Comments, feedback, bug reports, and suggestions can all be posted in the discussions. Let us know what we can do better or fix!** :star:
 
+
 ![poster icon](https://i.imgur.com/ffKJzuy.png "Character poster revealed!")
+
+# Hey wait!
+**If you enjoyed this mod, please check out our other mods as well -- you might like them too :)**
+* Mod
+* Mod
+* Mod
+* Mod
 
 [Keidence]: http://steamcommunity.com/profiles/76561198010524937
 [here]: http://steamcommunity.com/profiles/76561198010524937
-
