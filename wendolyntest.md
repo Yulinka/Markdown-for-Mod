@@ -5,7 +5,7 @@ A Don’t Starve character mod to add **Wendolyn the Animal Obsessed**.
 _"Every cute animal will love me and be my pet!"_
 
 ## Stats:
-| A.     | B.  |
+|  Stat  |  #  |
 |--------|-----|
 | Health | 150 |
 | Sanity | 120 |
